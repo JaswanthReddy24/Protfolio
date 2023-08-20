@@ -191,7 +191,7 @@ ul {
 
 /* SOCIAL ICONS */
 .social-icons{
-    display: inline-flex ;
+    display: flex ;
     flex-direction: column;
     align-items: center;
 }
